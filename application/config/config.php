@@ -24,7 +24,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 |
 */
 //config base_url
-$config['base_url']	= 'http://localhost/zend_barcode_example';
+$config['base_url']	= 'http://localhost/Codeigniter-Barcode-Generator-Zend-Library';
 
 /*
 
